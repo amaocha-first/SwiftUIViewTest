@@ -13,6 +13,7 @@
 		CC79BF27244700AD006A89FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC79BF26244700AD006A89FF /* Assets.xcassets */; };
 		CC79BF2A244700AD006A89FF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC79BF29244700AD006A89FF /* Preview Assets.xcassets */; };
 		CC79BF2D244700AD006A89FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC79BF2B244700AD006A89FF /* LaunchScreen.storyboard */; };
+		CC79BF3524470EE1006A89FF /* GeometryReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC79BF3424470EE1006A89FF /* GeometryReaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CC79BF29244700AD006A89FF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CC79BF2C244700AD006A89FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CC79BF2E244700AD006A89FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC79BF3424470EE1006A89FF /* GeometryReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CC79BF20244700AA006A89FF /* AppDelegate.swift */,
 				CC79BF22244700AA006A89FF /* SceneDelegate.swift */,
 				CC79BF24244700AA006A89FF /* ContentView.swift */,
+				CC79BF3424470EE1006A89FF /* GeometryReaderView.swift */,
 				CC79BF26244700AD006A89FF /* Assets.xcassets */,
 				CC79BF2B244700AD006A89FF /* LaunchScreen.storyboard */,
 				CC79BF2E244700AD006A89FF /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CC79BF21244700AA006A89FF /* AppDelegate.swift in Sources */,
+				CC79BF3524470EE1006A89FF /* GeometryReaderView.swift in Sources */,
 				CC79BF23244700AA006A89FF /* SceneDelegate.swift in Sources */,
 				CC79BF25244700AA006A89FF /* ContentView.swift in Sources */,
 			);
